@@ -1,0 +1,45 @@
+CSS 12-9-24
+
+
+interview me what are selectors and explain their type..
+
+selectors....
+id                se will select unique or specific element value for styling
+universal selector 
+class             de stake for styling purpose 
+element
+
+
+
+
+19=9-24
+BOX model
+padding me internally change and margine me externally
+
+top right bottom left
+
+
+flex box
+flex-direction row and column 
+by default column 
+
+justify content
+flex start
+flex-end
+center
+space-between.....will touch margine and have space btw them 
+space -evenly...will not touch margine 
+space-around
+
+
+
+aling -item create  changes in colum justify creat changes in row but if we degine flex-direction then thet will work vice-versa
+
+
+
+grid box 
+
+
+
+The main difference between inline-grid and grid is that inline-grid makes an element inline, while grid makes it a block-level element
+
